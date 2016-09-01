@@ -1,0 +1,23 @@
+body {
+	background-color: #222222;
+}
+
+#conteneurPrincipal {
+	padding: 30px;
+	background-color: #f9f9f9;
+	min-height: 1000px;
+	margin-bottom: 100px;
+}
+
+#logoSite {
+	padding: 30px;
+}
+
+#messageBienvenue {
+	/*line-height: 30px;*/
+}
+
+i.fa {
+	vertical-align: middle;
+	padding-right: 10px;
+}
